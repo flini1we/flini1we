@@ -1,5 +1,5 @@
-# 💫 About Me:
-🍏 I'm a beginner iOS developer.<br>⭐️ I want to write useful software in the Apple ecosystem.<br>💻 I love solving algorithmic problems.<br>🎓 KFU ITIS student<br>⚡ Fun fact, I love extreme sports
+# About Me:
+🍏 I'm a beginner iOS developer<br>⭐️ I want to write useful software in the Apple ecosystem<br>💻 I love solving algorithmic problems<br>🎓 KFU ITIS student<br>⚡ Fun fact, I love extreme sports
 
 
 ## 🌐 Socials:
